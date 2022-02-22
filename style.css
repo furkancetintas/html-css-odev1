@@ -1,0 +1,26 @@
+.container {
+  margin: auto;
+  text-align: center;
+}
+
+.about-us {
+  text-align: left;
+}
+
+ul,
+ol {
+  list-style-position: inside;
+}
+ul li.menuItems {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.logo a {
+  text-decoration: none;
+  color: #dc143c;
+}
+
+.h2-title {
+  color: #21325e;
+}
